@@ -1,29 +1,25 @@
 cv:
-  name: Jitendra
+  name: Jitendra Naga Siddardha
   location: Guntur, Andhra Pradesh, India
   email: jitendransp04@gmail.com
   phone: +91 7095878390
   social_networks:
     - network: LinkedIn
       username: jitendra-cma
-    - network: GitHub
-      username: jitendra
-
   sections:
     summary:
-      - Qualified Cost and Management Accountant (CMA) and MBA graduate with practical experience in Statutory Audits, Internal Audits, and Taxation (GST/ITR). Upcoming SAP Certified Application Associate (C_TS4FI) with strong foundational knowledge in SAP FICO (GL, AP/AR). Seeking a challenging role in Financial Management or SAP Consulting.
+      - Qualified Cost and Management Accountant (CMA) and MBA graduate with practical experience in Statutory Audits, Internal Audits, and Taxation (GST/ITR). SAP Certified Application Associate (C_TS4FI) with strong foundational knowledge in SAP FICO (GL, AP/AR). Seeking a challenging role in Financial Management or SAP Consulting.
 
     education:
       - institution: Institute of Cost Accountants of India (ICMAI)
         area: Cost and Management Accounting (CMA)
         degree: Qualified CMA
-        start_date: 2020-12
-        end_date: 2026-02
+        end_date: 2025-12
         location: India
         highlights:
           - "Status: Qualified. Completed all levels (Foundation, Intermediate, Final)."
       
-      - institution: Acharya Nagarjuna University
+      - institution: Jawaharlal Nehru Technological University, Kakinada(JNTUK)
         area: Financial Management
         degree: Master of Business Administration (MBA)
         start_date: 2023-09
@@ -90,7 +86,7 @@ cv:
       - name: SAP Certified Application Associate - SAP S/4HANA for Financial Accounting (C_TS4FI)
         date: 2026-03
         highlights:
-          - "(Upcoming) Validating expertise in SAP S/4HANA Finance, GL, AP/AR, and Asset Accounting."
+          - "Validating expertise in SAP S/4HANA Finance, GL, AP/AR, and Asset Accounting."
       - name: NPTEL Certificates
         date: 2024-10
         highlights:
@@ -112,11 +108,11 @@ cv:
         details: MS Excel (Advanced), Tally Prime, SAP GUI.
 
 design:
-  theme: sb2nov
+  theme: classic
   
   # TYPOGRAPHY: Removed "font_size" so it uses the correct 10pt default automatically
   typography:
-    font_family: Source Sans 3  
+    font_family: Fontin
     line_spacing: 0.6em
 
   # PAGE SETTINGS
