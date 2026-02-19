@@ -1,0 +1,130 @@
+cv:
+  name: Jitendra
+  location: Guntur, Andhra Pradesh, India
+  email: jitendransp04@gmail.com
+  phone: +91 7095878390
+  social_networks:
+    - network: LinkedIn
+      username: jitendra-cma
+    - network: GitHub
+      username: jitendra
+
+  sections:
+    summary:
+      - Qualified Cost and Management Accountant (CMA) and MBA graduate with practical experience in Statutory Audits, Internal Audits, and Taxation (GST/ITR). Upcoming SAP Certified Application Associate (C_TS4FI) with strong foundational knowledge in SAP FICO (GL, AP/AR). Seeking a challenging role in Financial Management or SAP Consulting.
+
+    education:
+      - institution: Institute of Cost Accountants of India (ICMAI)
+        area: Cost and Management Accounting (CMA)
+        degree: Qualified CMA
+        start_date: 2020-12
+        end_date: 2026-02
+        location: India
+        highlights:
+          - "Status: Qualified. Completed all levels (Foundation, Intermediate, Final)."
+      
+      - institution: Acharya Nagarjuna University
+        area: Financial Management
+        degree: Master of Business Administration (MBA)
+        start_date: 2023-09
+        end_date: 2025-07
+        location: Guntur, India
+
+      - institution: Acharya Nagarjuna University (S.V.K.P College)
+        area: Commerce
+        degree: Bachelor of Commerce (B.Com)
+        start_date: 2020-06
+        end_date: 2023-07
+        location: Guntur, India
+        highlights:
+          - "Graduated with First Class Distinction."
+
+      - institution: Master Minds College (BIEAP)
+        area: Commerce (MEC)
+        degree: Intermediate (Class 12)
+        start_date: 2018-04
+        end_date: 2020-03
+        location: Guntur, India
+        highlights:
+          - "CGPA: 9.42 / 10"
+
+      - institution: Katuri Public School (BSEAP)
+        area: Secondary School
+        degree: 10th Standard (SSC)
+        start_date: 2017-03
+        end_date: 2018-03
+        location: Guntur, India
+        highlights:
+          - "GPA: 10.0 / 10.0"
+
+    experience:
+      - company: Ravi Prakash Gonugunta & Co.
+        position: CMA Industrial Trainee (Articleship)
+        start_date: 2021-01
+        end_date: 2022-05
+        location: Guntur, India
+        highlights:
+          - Completed 15 months of certified articleship focusing on General CA practice areas.
+          - Conducted Statutory Audits and Stock Audits for various corporate clients.
+          - Managed end-to-end filing of GST Returns (GSTR-1, GSTR-3B) and Income Tax Returns (ITR).
+          - Assisted in Internal Audits and preparation of financial statements.
+
+      - company: CA Firm (B.Com Internship)
+        position: Audit Intern
+        start_date: 2023-01
+        end_date: 2023-06
+        location: Guntur, India
+        highlights:
+          - Assisted senior auditors in vouching, verification, and bank reconciliation statements.
+          - Handled preliminary data entry and verification for Tax Audit reports.
+
+      - company: Salesforce (Virtual)
+        position: Salesforce Administrator Intern
+        start_date: 2022-08
+        end_date: 2022-10
+        location: Remote
+        highlights:
+          - Gained insights into CRM data management, user security, and reporting capabilities.
+
+    certifications:
+      - name: SAP Certified Application Associate - SAP S/4HANA for Financial Accounting (C_TS4FI)
+        date: 2026-03
+        highlights:
+          - "(Upcoming) Validating expertise in SAP S/4HANA Finance, GL, AP/AR, and Asset Accounting."
+      - name: NPTEL Certificates
+        date: 2024-10
+        highlights:
+          - "**Fundamentals of Cost Accounting:** 86% (Top 2% Score)"
+          - "**Introduction to GST:** 57%"
+      - name: CMA Skills Course
+        date: 2021-06
+        highlights:
+          - "SAP Finance & Controlling (FI-CO) Power User Course"
+          - "Cambridge University Press Soft Skills & Employability Training"
+          - "Microsoft Office Intermediate (Word/Excel/PowerPoint) & e-Filing"
+
+    skills:
+      - label: SAP FICO
+        details: S/4HANA Finance, General Ledger (GL), Accounts Payable (AP), Accounts Receivable (AR), Asset Accounting.
+      - label: Auditing & Tax
+        details: Statutory Audit, Stock Audit, Internal Audit, GST Filing, Income Tax Filing (ITR).
+      - label: Technical Tools
+        details: MS Excel (Advanced), Tally Prime, SAP GUI.
+
+design:
+  theme: sb2nov
+  typography:
+    font_family: Source Sans 3  
+    line_spacing: 0.6em
+  page:
+    size: a4
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_footer: false      
+    show_top_note: false    
+  colors:
+    name: "rgb(0, 0, 0)"
+    section_titles: "rgb(0, 0, 0)"
+    links: "rgb(0, 79, 144)"

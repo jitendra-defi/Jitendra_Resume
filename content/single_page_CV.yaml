@@ -1,0 +1,81 @@
+cv:
+  name: Jitendra Naga Siddardha
+  location: Guntur, Andhra Pradesh, India
+  email: jitendransp04@gmail.com
+  phone: "+91 7095878390"
+  social_networks:
+    - network: LinkedIn
+      username: jitendra-cma
+  sections:
+    summary:
+      - "Qualified Cost and Management Accountant (CMA) and MBA graduate with practical experience in Statutory Audits, Internal Audits, and Taxation (GST/ITR). SAP Certified Application Associate with strong foundational knowledge in SAP FICO (GL, AP/AR). Seeking a challenging role in Financial Management or SAP Consulting."
+    education:
+      - institution: Institute of Cost Accountants of India (ICMAI)
+        area: Cost and Management Accounting (CMA)
+        location: India
+        end_date: "2025-12"
+        highlights:
+          - "Status: Qualified. Completed all levels (Foundation, Intermediate, Final)."
+      - institution: Jawaharlal Nehru Technological University, Kakinada (JNTUK)
+        area: Master of Business Administration (MBA)
+        location: Guntur, India
+        start_date: "2023-09"
+        end_date: "2025-07"
+      - institution: Acharya Nagarjuna University (S.V.K.P College)
+        area: Bachelor of Commerce (B.Com)
+        location: Guntur, India
+        start_date: "2020-06"
+        end_date: "2023-07"
+        highlights:
+          - "Graduated with First Class Distinction."
+      - institution: Master Minds College (BIEAP)
+        area: Intermediate (Class 12)
+        location: Guntur, India
+        start_date: "2018-04"
+        end_date: "2020-03"
+        highlights:
+          - "CGPA: 9.42/10"
+      - institution: Katuri Public School (BSEAP)
+        area: 10th Standard (SSC)
+        location: Guntur, India
+        start_date: "2017-03"
+        end_date: "2018-03"
+        highlights:
+          - "GPA: 10.0/10.0"
+    experience:
+      - company: Ravi Prakash Gonugunta & Co.
+        position: CMA Industrial Trainee (Articleship)
+        location: Guntur, India
+        start_date: "2021-01"
+        end_date: "2022-05"
+        highlights:
+          - "Conducted Statutory Audits and Stock Audits, ensuring compliance and analyzing financial data for management reporting."
+          - "Assisted in Internal Audits, preparation of financial statements, and variance analysis."
+          - "Managed end-to-end filing of GST Returns (GSTR-1, GSTR-3B) and Income Tax Returns (ITR)."
+      - company: CA Firm
+        position: Audit Intern (B.Com Internship)
+        location: Guntur, India
+        start_date: "2023-01"
+        end_date: "2023-06"
+        highlights:
+          - "Assisted senior auditors in vouching, verification, and bank reconciliation statements."
+          - "Handled preliminary financial data entry and verification for Tax Audit reports."
+      - company: Salesforce
+        position: Salesforce Administrator Intern
+        location: Remote
+        start_date: "2022-08"
+        end_date: "2022-10"
+        highlights:
+          - "Gained hands-on experience in CRM data management, user security, and generating analytical reports."
+    certifications:
+      - "SAP Certified Application Associate - SAP S/4HANA for Financial Accounting (C_TS4FI) (Mar 2026)"
+      - "Fundamentals of Cost Accounting (86%) & Intro to GST (57%) - NPTEL (Oct 2024)"
+      - "SAP Finance & Controlling (FI-CO) Power User Course - CMA Skills Course (June 2021)"
+      - "Microsoft Office Intermediate & e-Filing - CMA Skills Course (June 2021)"
+    skills:
+      - label: SAP FICO
+        details: "S/4HANA Finance, General Ledger (GL), Accounts Payable (AP), Accounts Receivable (AR), Asset Accounting."
+      - label: Auditing & Tax
+        details: "Statutory Audit, Stock Audit, Internal Audit, GST Filing, Income Tax Filing (ITR)."
+      - label: Technical Tools
+        details: "MS Excel (Advanced), Tally Prime, SAP GUI."
